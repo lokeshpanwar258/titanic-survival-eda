@@ -123,7 +123,7 @@ titanic-survival-eda/
 
 ```bash
 # 1. Clone this repository
-git clone https://github.com/yourname/titanic-survival-eda.git
+git clone https://github.com/lokeshpanwar258/titanic-survival-eda.git
 
 # 2. Navigate to project folder
 cd titanic-survival-eda
